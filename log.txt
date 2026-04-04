@@ -1,0 +1,223 @@
+System initializing: Loading Immunisation Handbook PDF...
+===================================> Current mode: Groq + Google
+⚡ 發現本機已存檔的資料庫，免連網，一秒讀取完畢！
+
+[ OK ] System Ready!
+Clinical Advisor asking: Can a 6-month-old infant with a mild fever receive the MMR vaccine?
+
+=== AI Advisor Answer ===
+1. The context mentions that the MMR vaccine is administered at 12 months of age, according to the National Immunisation Schedule. However, it does not provide specific guidance on administering the MMR vaccine at 6 months of age.
+
+2. The context does not explicitly address the issue of mild fever and vaccination. However, it does mention that a diagnosed neurological condition or a history of well-controlled seizures is not a contraindication to any vaccine on the Schedule, but it does not provide information on mild fever.
+
+3. Since the context lacks specific guidance on administering the MMR vaccine at 6 months of age and does not provide clear rules regarding mild fever, the recommendation cannot be directly derived from the given context. Therefore, the answer is: Not mentioned in the guidelines.
+
+=== Sources Triggered (Summary) ===
+Source 1 (Page 97): 80 IMMUNISATION HANDBOOK 2025    Can immunisations be given ...
+Source 2 (Page 16): IMMUNISATION HANDBOOK 2025 xvii    National Immunisation Sch...
+Source 3 (Page 97): anaphylaxis to a prior dose of vaccine, or to an ingredient ...
+Source 4 (Page 25): neonatal intensive care unit or special care baby unit for m...
+Source 5 (Page 50): IMMUNISATION HANDBOOK 2025 33    2 Processes for safe  immun...
+Source 6 (Page 9): A4.5 Local immunisation programmes 640  A4.6 Minimum staff a...
+Source 7 (Page 313): days before symptoms start until about day ﬁve of the illnes...
+Source 8 (Page 24): including children age under 5 who were hospitalised with me...
+
+==================================================
+=== Detailed Full Text for Debugging ===
+==================================================
+
+=== Source 1 (Python認定的頁碼: 97) ===
+80 IMMUNISATION HANDBOOK 2025 
+ 
+Can immunisations be given during an operation? 
+When appropriate, opportunistic vaccination can be administered while a person is 
+under anaesthesia.1 
+ 
+What if the individual has a chronic disease? 
+Individuals with chronic diseases should be immunised in the normal way, especially as 
+they may be more at risk from the severe effects of vaccine-preventable diseases. 
+However, if the illness or its treatment results in impaired immunity, immunisation with 
+live vaccines should be considered carefully (see section 4.3), and the patient’s GP, 
+paediatrician or other specialist should be consulted before immunisation. 
+What if the individual is allergic? 
+Only anaphylaxis to a prior dose of vaccine, or to an ingredient in the vaccine, is 
+considered an absolute contraindication. See the contraindications and precautions 
+section in each disease chapter. Children with asthma, eczema, hay fever and other 
+allergies should be immunised in the usual way. Studies have shown that immunised 
+children have slightly lower rates of atopic diseases.6, 7 
+ 
+Can an individual be immunised if they are known to develop a 
+rash with antibiotics? 
+Individuals can be immunised if they are known to develop a rash with antibiotics. Only 
+anaphylaxis to a prior dose of vaccine, or to an ingredient in the vaccine, is considered 
+an absolute contraindication to vaccination. A rash alone is not anaphylaxis. 
+ 
+Can all individuals receive all the vaccines?
+----------------------------------------
+
+=== Source 2 (Python認定的頁碼: 16) ===
+IMMUNISATION HANDBOOK 2025 xvii 
+ 
+National Immunisation Schedule 
+Antigen(s) DTaP-IPV-HepB/Hib PCV13 MenB RV1 MMR Hib-PRP VV DTaP-IPV Tdap HPV9 Influenza rZV 
+Brand name Infanrix-hexa Prevenar 13 Bexsero Rotarix Priorix Act-HIB Varilrix Infanrix-IPV Boostrix Gardasil 9 Influvac 
+Tetra 
+Shingrix 
+Pregnancy         Tdap  Influenza  
+6 weeks DTaP-IPV-HepB/Hib PCV13a  RV1         
+3 months DTaP-IPV-HepB/Hib  MenBb RV1         
+5 months DTaP-IPV-HepB/Hib PCV13 MenB          
+12 months  PCV13 MenB  MMR        
+15 months     MMR Hib-PRP VV      
+4 years        DTaP-IPV     
+11 or  
+12 years 
+        Tdap HPV9 
+(2 doses) 
+  
+45 years         Tdap    
+65 years         Tdap  Influenza 
+(annually) 
+rZV 
+(2 doses) 
+Key: D = diphtheria; T = tetanus; aP = acellular pertussis; IPV = inactivated polio vaccine; HepB = hepatitis B; Hib = Haemophilus influenzae type b;  
+PCV13 = 13-valent pneumococcal conjugate vaccine; RV1 = rotavirus vaccine (monovalent); MenB = meningococcal B vaccine; MMR = measles, mumps and rubella; VV = varicella vaccine; 
+d = adult diphtheria; ap = adult acellular pertussis; HPV9 = human papillomavirus (9 serotypes); rZV = herpes zoster vaccine. 
+a. For children at high risk of pneumococcal disease, an additional dose of PCV13 is given at age 3 months. 
+b. An alternative approved schedule for MenB given at 8 weeks (2 months), 4 months and 12 months is available.
+----------------------------------------
+
+=== Source 3 (Python認定的頁碼: 97) ===
+anaphylaxis to a prior dose of vaccine, or to an ingredient in the vaccine, is considered 
+an absolute contraindication to vaccination. A rash alone is not anaphylaxis. 
+ 
+Can all individuals receive all the vaccines? 
+An individual cannot receive a vaccine if they have had anaphylaxis to a prior dose of a 
+vaccine or to an ingredient in the vaccine. They may have an underlying condition that 
+is a contraindication to some vaccines; for example, those with illnesses or treatments 
+that cause immunocompromise may be unable to receive live attenuated vaccines (see 
+chapter 4 for special groups, chapters 12, 14 and 21 for MMR and chapter 24 for 
+varicella). 
+ 
+What if a child has had seizures? 
+A diagnosed neurological condition is not a contraindication to any vaccine on the 
+Schedule. A history of well-controlled seizures in the vaccine recipient or a family 
+history of seizures (febrile or afebrile) or other neurologic disorder is not a 
+contraindication to vaccination against pertussis.2 
+ 
+Vaccination for children with an unstable neurological disorder (eg, poorly controlled 
+epilepsy or deteriorating neurological state) has previously been considered a 
+precaution for pertussis vaccination, but as these children may be high risk of severe
+----------------------------------------
+
+=== Source 4 (Python認定的頁碼: 25) ===
+neonatal intensive care unit or special care baby unit for more than 3 days, 
+who had not been exposed to maternal vaccination at least 14 days prior to 
+birth 
+(Re)vaccination of patients who are: 
+• post-HSCT or chemotherapy 
+• pre- or post-splenectomy 
+• pre- or post-solid organ transplant 
+• undergoing renal dialysis or other severely immunosuppressive regimens 
+ Continued overleaf
+----------------------------------------
+
+=== Source 5 (Python認定的頁碼: 50) ===
+IMMUNISATION HANDBOOK 2025 33 
+ 
+2 Processes for safe 
+immunisation 
+This chapter provides information about: 
+• Pre-vaccination: cold chain management, informed consent, pre-vaccination 
+screening, contraindications, spacing of doses, catch-up, and adult vaccination 
+(section 2.1) 
+• Vaccine administration: preparation, route, vaccination techniques by age, and 
+multiple injections (section 2.2) 
+• Post-vaccination: post-vaccination advice, pain and fever recommendations, 
+anaphylaxis and emergency management, and documentation and insurance 
+(section 2.3). 
+ 
+ 
+Who can administer a vaccine? 
+Vaccines can be administered by: 
+• a nurse practitioner 
+• a medical practitioner 
+• a registered midwife 
+• a designated prescriber (which includes a registered nurse fulﬁlling the 
+designated prescriber criteria) 
+• a person authorised to administer the medicine in accordance with a 
+prescription or a standing order 
+• a registered pharmacist and a registered intern pharmacist (who has 
+completed approved training on vaccinations) 
+• a person who is authorised by either the Director-General of Health or a 
+Medical Ofﬁcer of Health under Regulation 44A or 44AB of the Medicines 
+Regulations 1984 (see A3.6) 
+• a person authorised as a vaccinating health worker by either the Director-
+General of Health or a Medical Officer of Health under Regulation 44AB of the 
+Medicines Regulations 1984 (see A3.6).  
+ 
+The vaccines a person may administer will vary depending on the lawful basis upon
+----------------------------------------
+
+=== Source 6 (Python認定的頁碼: 9) ===
+A4.5 Local immunisation programmes 640 
+A4.6 Minimum staff and equipment requirements for vaccination services
+ 641 
+Appendix 5 : Immunisation certiﬁcate 643 
+A5.1 Introduction 643 
+A5.2 Parent/guardian responsibilities 643 
+A5.3 Vaccinator responsibilities 643 
+A5.4 Early childhood services and school responsibilities 644 
+Appendix 6 : Passive immunisation 645 
+A6.1 Introduction 645 
+A6.2 Preparations available in New Zealand 645 
+A6.3 Indications for use 647 
+A6.4 Storage and administration 648 
+A6.5 Duration of effect 650 
+A6.6 Contraindications and precautions 651 
+A6.7 Potential responses and adverse events following passive 
+immunisation 652 
+References 653
+----------------------------------------
+
+=== Source 7 (Python認定的頁碼: 313) ===
+days before symptoms start until about day ﬁve of the illness. Peak viral shedding 
+occurs one to three days after the development of symptoms, diminishing to low levels 
+by ﬁve days. Children shed more virus and remain infectious for longer than adults. 
+ 
+There is a wide range of symptoms, from asymptomatic to severe disease. Mild 
+influenza with non-specific symptoms is common, resulting in a large proportion of 
+viral transmission and undetected infections.6 In older children and adults, the illness 
+characteristically begins abruptly with fever and a variety of clinical symptoms, 
+including chills, malaise, headache, myalgia, non-productive cough, rhinitis, sore throat 
+and mild conjunctivitis. Vomiting and diarrhoea may be present. While children aged 
+under 5 years have fever, cough and rhinitis, infants may present with unexplained 
+fever or sepsis-like syndrome only.4 In the young, inﬂuenza virus may cause croup, 
+bronchiolitis and pneumonia. Fever is often less evident in the elderly, who may 
+present with other symptoms, such as anorexia, fatigue or confusion. Inﬂuenza typically 
+resolves after several days in most people, although cough and malaise may persist for 
+two or more weeks. 
+ 
+Infections due to pandemic influenza A strains are more likely to lead to severe 
+morbidity and increased mortality than influenza B or seasonal influenza A strains. 
+ 
+Influenza B infections were previously thought to generally cause more mild illness, but
+----------------------------------------
+
+=== Source 8 (Python認定的頁碼: 24) ===
+including children age under 5 who were hospitalised with measles 
+• are currently accessing secondary or tertiary mental health and addiction 
+services  
+• have any of the following serious mental health conditions: 
+– schizophrenia 
+– major depressive disorder 
+– bipolar disorder 
+– schizoaffective disorder 
+Measles, mumps 
+and rubella (MMR) 
+(chapters 12, 14 
+and 21) 
+(Re)vaccination of patients prior to planned or following 
+immunosuppressionb 
+ Continued overleaf
+----------------------------------------
