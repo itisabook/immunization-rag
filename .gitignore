@@ -1,0 +1,12 @@
+.env
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+__pycache__/
+chroma_db_gemini/
+chroma_db_openai/
+*.pdf
+*.save
+*.save.*
